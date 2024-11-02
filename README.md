@@ -10,7 +10,7 @@ This little tool aims to make the use of dyn.addr.tools easier.
 I'm not affiliated or related to them in any way
 
 ### Demonstration:  
-You can watch a demonstration of the tool [in this video](TBD) 
+You can watch a demonstration of the tool [in this video](https://youtu.be/zVV0a79rGz0) 
 
 ### Prerequisits:
 - Terminal with bash
